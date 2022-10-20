@@ -11,3 +11,4 @@ Hacktoberfest 2020
 ## Contributors
 - [Mohammad Zulfahmi](https://github.com/Zzzul)
 - [Rafi Firmansyah](https://github.com/rafifirmansyah)
+- [Soumyadeep Chakraborty](https://github.com/epicskills1/)
